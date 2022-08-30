@@ -1,0 +1,4 @@
+RINKEBY_URL=https://rinkeby.infura.io/v3/xxxxxxx
+PRIVATE_KEY=xxxxxxx
+ETHERSCAN_API_KEY=xxxxxxx
+PROXY=0x5A9468e3796fF9B5a27994767A2dE58eAB121045
